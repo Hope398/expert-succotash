@@ -1,0 +1,5 @@
+CREATE TABLE table_call back (
+column1 datatyoe,
+colume2 text;
+colume3 interger
+);
